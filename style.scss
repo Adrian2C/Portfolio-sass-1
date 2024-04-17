@@ -1,0 +1,15 @@
+@forward './components/reset'; 
+@forward './components/variables';
+@forward './components/nav';
+@forward './components/header';
+@forward './components/about';
+@forward './components/projects';
+@forward './components/reviews';
+@forward './components/footer';
+
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+
+
+body {
+  background: #211f22;
+}
